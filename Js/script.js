@@ -49,12 +49,13 @@ type();
 const words = [
   "Web Developer",
   "Frontend Developer",
+  "Full Stack Developer",
+  "Angular Developer",
   "Backend Developer",
   "React Developer",
   "MERN Stack Developer",
   "SQL Developer",
-  "Software Engineer",
-  "Software Developer",
+  "Software Engineer", 
 ];
 let currentWordIndex = 0;
 const paragraphElement = document.getElementById("course");
